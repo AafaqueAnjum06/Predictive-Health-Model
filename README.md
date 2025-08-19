@@ -1,6 +1,6 @@
 # 🫀 Heart Disease Risk Prediction App
 
-![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Python](https://img.shields.io/badge/Python-3.13-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.48.1-orange)
 
 A **Heart Disease Risk Prediction** web application built using Python and Streamlit.  
