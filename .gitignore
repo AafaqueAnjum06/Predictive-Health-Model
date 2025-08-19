@@ -9,7 +9,7 @@ __pycache__/
 *.sqlite3
 
 # Ignore assets folder (screenshots, GIFs)
-assets/
+# assets/
 
 # OS files
 .DS_Store

@@ -2,8 +2,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.48.1-orange)
-![GitHub Repo Size](https://img.shields.io/github/repo-size/aafaqueanjum/heart-disease-app)
-![GitHub Stars](https://img.shields.io/github/stars/aafaqueanjum06/heart-disease-app?style=social)
 
 A **Heart Disease Risk Prediction** web application built using Python and Streamlit.  
 Predicts the likelihood of heart disease based on user clinical features using a trained machine learning model.
@@ -133,7 +131,5 @@ streamlit run src/app.py
 ## ✍️ Author
 
 **Aafaque Anjum**  
-- GitHub: [https://github.com/AafaqueAnjum06](https://github.com/AafaqueAnjum06)  
-- LinkedIn: [www.linkedin.com/in/aafaqueanjum06](www.linkedin.com/in/aafaqueanjum06)  
-
+- GitHub: [https://github.com/AafaqueAnjum06](https://github.com/AafaqueAnjum06)
 
