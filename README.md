@@ -133,3 +133,7 @@ streamlit run src/app.py
 **Aafaque Anjum**  
 - GitHub: [https://github.com/AafaqueAnjum06](https://github.com/AafaqueAnjum06)
 
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
