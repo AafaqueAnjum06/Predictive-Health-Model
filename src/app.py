@@ -95,11 +95,9 @@ if st.button("🔍 Predict"):
     # Professional Output
     if prediction == 1:
         st.error(f"⚠️ The model predicts **Heart Disease Risk**.\n\n"
-                 f"**Confidence:** {probability*100:.2f}%\n"
                  f"\n**Risk Category:** {risk_category}")
     else:
         st.success(f"✅ The model predicts **No Heart Disease Risk**.\n\n"
-                   f"**Confidence:** {probability*100:.2f}%\n"
                    f"\n**Risk Category:** {risk_category}")
 
     
