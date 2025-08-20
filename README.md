@@ -124,8 +124,7 @@ streamlit run src/app.py
 
 | Feature Set Example | Output |
 |--------------------|-----------------|
-| Age: 55, Sex: M, ChestPainType: ATA, RestingBP: 140, Cholesterol: 250, FastingBS: 0, RestingECG: Normal, MaxHR: 150, ExerciseAngina: 0, Oldpeak: 1.5, ST_Slope: Up |The Model Predicts Heart Disease Risk.
-Risk ategory: Medium Risk |
+| Age: 55, Sex: M, ChestPainType: ATA, RestingBP: 140, Cholesterol: 250, FastingBS: 0, RestingECG: Normal, MaxHR: 150, ExerciseAngina: 0, Oldpeak: 1.5, ST_Slope: Up |The Model Predicts Heart Disease Risk. Risk Category: Medium Risk |
 
 ---
 
